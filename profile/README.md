@@ -1,4 +1,4 @@
-![TrafkHop](Logov2.png)
+![TrafkHop](TH.png)
 ---
 **An Austrian indie studio building all sorts of stuff, all inside of one universe – the TrafkVerse.**
 
