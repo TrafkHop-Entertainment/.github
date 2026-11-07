@@ -6,6 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-TrafkHop-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnT2V9uGCInXnq9rDaP5v0g)
 [![itch.io](https://img.shields.io/badge/itch.io-TrafkHop-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://trafkhop-entertainment.itch.io/)
 [![Penguinmod](https://img.shields.io/badge/penguinmod-TrafkHop-00c3ff?style=flat-square&logo=scratch&logoColor=white)](https://penguinmod.com/profile?user=trafkhop)
+[![pinterest](https://img.shields.io/badge/pinterest-TrafkHop-FA5C5C?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/trafkhop/)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/HRC9PHGf)
 [![HuggingFace](https://img.shields.io/badge/Huggingface-TrafkHop-ffd21e?style=flat-square&logo=huggingface&logoColor=white)](https://discord.gg/HRC9PHGf)
 [![Email](https://img.shields.io/badge/Email-contact.trafkhop@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact.trafkhop@proton.me)
