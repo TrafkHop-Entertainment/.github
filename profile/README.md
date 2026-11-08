@@ -2,14 +2,7 @@
 ---
 **An Austrian indie studio building all sorts of stuff, all inside of one universe – the TrafkVerse.**
 
-[![Website](https://img.shields.io/badge/Website-TrafkSite-6b3fa0?style=flat-square)](https://trafkhop-entertainment.github.io/TrafkSite/)
-[![YouTube](https://img.shields.io/badge/YouTube-TrafkHop-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnT2V9uGCInXnq9rDaP5v0g)
-[![itch.io](https://img.shields.io/badge/itch.io-TrafkHop-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://trafkhop-entertainment.itch.io/)
-[![Penguinmod](https://img.shields.io/badge/penguinmod-TrafkHop-00c3ff?style=flat-square&logo=scratch&logoColor=white)](https://penguinmod.com/profile?user=trafkhop)
-[![pinterest](https://img.shields.io/badge/pinterest-TrafkHop-FA5C5C?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/trafkhop/)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/HRC9PHGf)
-[![HuggingFace](https://img.shields.io/badge/Huggingface-TrafkHop-ffd21e?style=flat-square&logo=huggingface&logoColor=white)](https://discord.gg/HRC9PHGf)
-[![Email](https://img.shields.io/badge/Email-contact.trafkhop@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact.trafkhop@proton.me)
+[![Website](https://img.shields.io/badge/Website-TrafkSite-6b3fa0?style=flat-square)](https://trafkhop-entertainment.github.io/TrafkSite/) [![YouTube](https://img.shields.io/badge/YouTube-TrafkHop-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnT2V9uGCInXnq9rDaP5v0g) [![itch.io](https://img.shields.io/badge/itch.io-TrafkHop-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://trafkhop-entertainment.itch.io/) [![Penguinmod](https://img.shields.io/badge/penguinmod-TrafkHop-00c3ff?style=flat-square&logo=scratch&logoColor=white)](https://penguinmod.com/profile?user=trafkhop) [![pinterest](https://img.shields.io/badge/pinterest-TrafkHop-FA5C5C?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/trafkhop/) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/HRC9PHGf) [![HuggingFace](https://img.shields.io/badge/Huggingface-TrafkHop-ffd21e?style=flat-square&logo=huggingface&logoColor=white)](https://discord.gg/HRC9PHGf) [![Email](https://img.shields.io/badge/Email-contact.trafkhop@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact.trafkhop@proton.me)
 
 
 ## About the Studio:
@@ -28,13 +21,13 @@ Every TrafkHop project lives inside the **TrafkVerse** – a single, meticulousl
 
 ## What We Aim For:
 
-| Type           | Answer                                               |
-| -------------- | ---------------------------------------------------- |
-| **Genres**     | RPGs first, but long-term: every genre               |
-| **Aesthetic**  | Early-2000s cartoon/anime, Gamecube/Dreamcast-era 3D |
-| **Music**      | Japanese / classical / indie inspired                |
-| **Flavor**     | Austrian culture & folklore                          |
-| **Foundation** | One universe, one magic system, one canon            |
+| Type           | Answer                                                         |
+| -------------- | -------------------------------------------------------------- |
+| **Genres**     | RPGs first, but long-term: every genre and even other projects |
+| **Aesthetic**  | Early-2000s cartoon/anime, Gamecube/Dreamcast-era 3D           |
+| **Music**      | Japanese / classical / indie inspired                          |
+| **Flavor**     | Austrian culture & folklore                                    |
+| **Foundation** | One universe, one magic system, one canon                      |
 
 ## Projects:
 > Full list: [TrafkSite/Projects](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Projects.html)
