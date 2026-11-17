@@ -32,14 +32,14 @@ Every TrafkHop project lives inside the **TrafkVerse** – a single, meticulousl
 ## Projects:
 > Full list: [TrafkSite/Projects](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Projects.html)
 
-| Project                                                                                                                                           | What it is                                                                                     | Stack                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------- |
-| [**TrafkTux**](https://trafkhop-entertainment.github.io/TrafkSite/Websites/TrafkTux.html)<br>![TrafkHop](TX.png)                                  | An Arch Linux-based distribution with an artistic vision.                                      | Arch / Bash / C      |
-| [**TrafkSite**](https://trafkhop-entertainment.github.io/TrafkSite/)<br>![TrafkHop](TS.png)                                                       | The official TrafkHop website – wiki, lore, project info.                                      | HTML / CSS           |
-| [**SourceHop**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/SourceHop.html)<br>![TrafkHop](SH.png)                       | Asset collection (notes, images, audio, models, code, GDScenes) – some usable in fan projects. | Mixed                |
-| [**TrafkVerse Wallpaper**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/TrafkVerseWallpaper.html)<br>![TrafkHop](TVW.png) | Procedural wallpaper that generates symbols & shapes which play sounds.                        | SF2 / C              |
-| [**Raufbold3bs Scratch Archive**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/RSA.html)<br>![TrafkHop](RSA.png)          | Collection of 15 early Scratch games.                                                          | Scratch / Penguinmod |
-| [**TrafkCalc**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/TrafkCalc.html)                                              | A simple calculator for the TrafkVerse lore.                                                   | C                    |
+| Project                                                                                                                                           | What it is                                                              | Stack                |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------- | --- |
+| [**TrafkTux**](https://trafkhop-entertainment.github.io/TrafkSite/Websites/TrafkTux.html)<br>![TrafkHop](TX.png)                                  | An Arch Linux-based distribution with an artistic vision.               | Arch / Bash / C      |     |
+| [**TrafkSite**](https://trafkhop-entertainment.github.io/TrafkSite/)<br>![TrafkHop](TS.png)                                                       | The official TrafkHop website – wiki, lore, project info.               | HTML / CSS           |     |
+| [**UrlstoneDiskArchiver**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/UrlstoneDiskArchiver.html)                        | Program to backup, restore and enhance Disks!                           | Shell                |     |
+| [**TrafkVerse Wallpaper**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/TrafkVerseWallpaper.html)<br>![TrafkHop](TVW.png) | Procedural wallpaper that generates symbols & shapes which play sounds. | SF2 / C              |     |
+| [**Raufbold3bs Scratch Archive**](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Websites/RSA.html)<br>![TrafkHop](RSA.png)          | Collection of 15 early Scratch games.                                   | Scratch / Penguinmod |     |
+
 
 
 ## Part of TetraBox
